@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          chike
+          copycatgit remote add origin https://github.com/deaconjp/copycat.git
         </a>
       </header>
     </div>
